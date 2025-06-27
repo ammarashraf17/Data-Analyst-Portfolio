@@ -4,3 +4,5 @@
 ![image](https://github.com/user-attachments/assets/17dd044a-1b68-4f0b-b190-0ed6df9b10a8)
 ## Power Bi Dashboard - Data Professional Survey.pbix
 ![image](https://github.com/user-attachments/assets/51bcc3e8-d7df-420a-b74d-bcc69f426fcc)
+## Tableau Dashboard - AirBnB Full Project.twb
+![image](https://github.com/user-attachments/assets/1602c5de-4165-434c-8463-993e36cb9412)
